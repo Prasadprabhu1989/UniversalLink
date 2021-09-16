@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "B8D9R78M68.com.dsnl.multicallapp",
-                "paths": [ "*"]
+                "paths": ["*", "/"]
             }
         ]
     }
